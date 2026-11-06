@@ -1,0 +1,30 @@
+# Visual Studio and generated build files
+.vs/
+build/
+[Bb]in/
+[Oo]bj/
+x64/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.log
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Personal notes
+個人的な目標.txt
